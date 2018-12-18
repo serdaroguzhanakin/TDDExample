@@ -1,0 +1,13 @@
+C:\Users\oguzhan.akin\source\repos\TddExample\TestProject\bin\Debug\netstandard2.0\TestProject.deps.json
+C:\Users\oguzhan.akin\source\repos\TddExample\TestProject\bin\Debug\netstandard2.0\TestProject.dll
+C:\Users\oguzhan.akin\source\repos\TddExample\TestProject\obj\Debug\netstandard2.0\TestProject.csprojAssemblyReference.cache
+C:\Users\oguzhan.akin\source\repos\TddExample\TestProject\obj\Debug\netstandard2.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan.akin\source\repos\TddExample\TestProject\obj\Debug\netstandard2.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\oguzhan.akin\source\repos\TddExample\TestProject\obj\Debug\netstandard2.0\TestProject.AssemblyInfo.cs
+C:\Users\oguzhan.akin\source\repos\TddExample\TestProject\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+C:\Users\oguzhan.akin\source\repos\TddExample\TestProject\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+C:\Users\oguzhan.akin\source\repos\TddExample\TestProject\bin\Debug\netstandard2.0\nunit.engine.dll
+C:\Users\oguzhan.akin\source\repos\TddExample\TestProject\bin\Debug\netstandard2.0\nunit.engine.api.dll
+C:\Users\oguzhan.akin\source\repos\TddExample\TestProject\bin\Debug\netstandard2.0\TestProject.pdb
+C:\Users\oguzhan.akin\source\repos\TddExample\TestProject\obj\Debug\netstandard2.0\TestProject.dll
+C:\Users\oguzhan.akin\source\repos\TddExample\TestProject\obj\Debug\netstandard2.0\TestProject.pdb

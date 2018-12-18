@@ -1,0 +1,14 @@
+C:\Users\oguzhan.akin\source\repos\TddExample\ECommerceBackend\bin\Debug\netcoreapp2.2\ECommerceBackend.deps.json
+C:\Users\oguzhan.akin\source\repos\TddExample\ECommerceBackend\bin\Debug\netcoreapp2.2\ECommerceBackend.runtimeconfig.json
+C:\Users\oguzhan.akin\source\repos\TddExample\ECommerceBackend\bin\Debug\netcoreapp2.2\ECommerceBackend.runtimeconfig.dev.json
+C:\Users\oguzhan.akin\source\repos\TddExample\ECommerceBackend\bin\Debug\netcoreapp2.2\ECommerceBackend.dll
+C:\Users\oguzhan.akin\source\repos\TddExample\ECommerceBackend\obj\Debug\netcoreapp2.2\ECommerceBackend.csprojAssemblyReference.cache
+C:\Users\oguzhan.akin\source\repos\TddExample\ECommerceBackend\obj\Debug\netcoreapp2.2\ECommerceBackend.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan.akin\source\repos\TddExample\ECommerceBackend\obj\Debug\netcoreapp2.2\ECommerceBackend.RazorAssemblyInfo.cache
+C:\Users\oguzhan.akin\source\repos\TddExample\ECommerceBackend\obj\Debug\netcoreapp2.2\ECommerceBackend.RazorAssemblyInfo.cs
+C:\Users\oguzhan.akin\source\repos\TddExample\ECommerceBackend\obj\Debug\netcoreapp2.2\ECommerceBackend.AssemblyInfoInputs.cache
+C:\Users\oguzhan.akin\source\repos\TddExample\ECommerceBackend\obj\Debug\netcoreapp2.2\ECommerceBackend.AssemblyInfo.cs
+C:\Users\oguzhan.akin\source\repos\TddExample\ECommerceBackend\obj\Debug\netcoreapp2.2\ECommerceBackend.RazorTargetAssemblyInfo.cache
+C:\Users\oguzhan.akin\source\repos\TddExample\ECommerceBackend\bin\Debug\netcoreapp2.2\ECommerceBackend.pdb
+C:\Users\oguzhan.akin\source\repos\TddExample\ECommerceBackend\obj\Debug\netcoreapp2.2\ECommerceBackend.dll
+C:\Users\oguzhan.akin\source\repos\TddExample\ECommerceBackend\obj\Debug\netcoreapp2.2\ECommerceBackend.pdb

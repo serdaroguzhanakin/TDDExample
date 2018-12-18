@@ -1,0 +1,11 @@
+C:\Users\oguzhan.akin\source\repos\TddExample\MainProject\bin\Debug\netcoreapp2.2\MainProject.deps.json
+C:\Users\oguzhan.akin\source\repos\TddExample\MainProject\bin\Debug\netcoreapp2.2\MainProject.runtimeconfig.json
+C:\Users\oguzhan.akin\source\repos\TddExample\MainProject\bin\Debug\netcoreapp2.2\MainProject.runtimeconfig.dev.json
+C:\Users\oguzhan.akin\source\repos\TddExample\MainProject\bin\Debug\netcoreapp2.2\MainProject.dll
+C:\Users\oguzhan.akin\source\repos\TddExample\MainProject\bin\Debug\netcoreapp2.2\MainProject.pdb
+C:\Users\oguzhan.akin\source\repos\TddExample\MainProject\obj\Debug\netcoreapp2.2\MainProject.csprojAssemblyReference.cache
+C:\Users\oguzhan.akin\source\repos\TddExample\MainProject\obj\Debug\netcoreapp2.2\MainProject.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan.akin\source\repos\TddExample\MainProject\obj\Debug\netcoreapp2.2\MainProject.AssemblyInfoInputs.cache
+C:\Users\oguzhan.akin\source\repos\TddExample\MainProject\obj\Debug\netcoreapp2.2\MainProject.AssemblyInfo.cs
+C:\Users\oguzhan.akin\source\repos\TddExample\MainProject\obj\Debug\netcoreapp2.2\MainProject.dll
+C:\Users\oguzhan.akin\source\repos\TddExample\MainProject\obj\Debug\netcoreapp2.2\MainProject.pdb

@@ -1,0 +1,4 @@
+C:\Users\oguzhan.akin\source\repos\TddExample\TddExample\obj\Debug\netcoreapp2.1\TddExample.csprojAssemblyReference.cache
+C:\Users\oguzhan.akin\source\repos\TddExample\TddExample\obj\Debug\netcoreapp2.1\TddExample.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan.akin\source\repos\TddExample\TddExample\obj\Debug\netcoreapp2.1\TddExample.AssemblyInfoInputs.cache
+C:\Users\oguzhan.akin\source\repos\TddExample\TddExample\obj\Debug\netcoreapp2.1\TddExample.AssemblyInfo.cs
